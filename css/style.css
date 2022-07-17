@@ -1,3 +1,7 @@
+* {
+    position: relative;
+}
+
 .panda-info-background {
     background-color: #fceae8;
 }
